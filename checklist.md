@@ -1,4 +1,3 @@
-# Checklist for app
 
 # [Shoe Catalogue API](https://github.com/shannonsn/shoes_api)
 

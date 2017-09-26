@@ -12,7 +12,7 @@
 * Prerequisites
 - Things you need to install to enable the app to run
 
-## forking and cloning
+## Forking and cloning
 
 Insert github link to fork or clone the app
 
@@ -20,10 +20,10 @@ Insert github link to fork or clone the app
 * how and where to install it
 * what is needed to run the app
 
-# running the app locally
+# Running the app locally
 navigate to where the app was cloned
 and run commands according how how the up runs locally
 
 
--known issues
+-Known issues
 * things to work on to make the app better goes here

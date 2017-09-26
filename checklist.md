@@ -14,9 +14,9 @@
 
 ## forking and cloning
 
-Insert github inlink to fork or clone the app
+Insert github link to fork or clone the app
 
- -Installation
+## -Installation
 * how and where to install it
 * what is needed to run the app
 

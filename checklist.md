@@ -16,11 +16,11 @@
 
 Insert github link to fork or clone the app
 
-## -Installation
+## - Installation
 * how and where to install it
 * what is needed to run the app
 
-#running the app locally
+# running the app locally
 navigate to where the app was cloned
 and run commands according how how the up runs locally
 
